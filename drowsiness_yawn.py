@@ -24,7 +24,7 @@ YAWN_SOUND_PATH = r"mixkit-alert-alarm-1005.wav"
 sleep_sound = pygame.mixer.Sound(SLEEP_SOUND_PATH)
 yawn_sound = pygame.mixer.Sound(YAWN_SOUND_PATH)
 
-
+ 
 # ==============================
 # EAR and MAR calculations
 # ==============================
