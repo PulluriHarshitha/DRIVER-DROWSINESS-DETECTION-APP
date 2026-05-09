@@ -183,6 +183,8 @@ while True:
 # ==============================
 # Cleanup
 # ==============================
+
+
 cv2.destroyAllWindows()
 vs.stop()
 pygame.mixer.quit()
